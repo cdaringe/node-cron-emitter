@@ -1,5 +1,5 @@
 {
-  "name": "cron-emitter",
+  "name": "xenv-cron-emitter",
   "version": "2.0.0",
   "description": "An event emitter for registering scheduled events in crontab format",
   "main": "build/cron-emitter.js",
